@@ -11,7 +11,7 @@ Check how it is looks here: https://i-phone15-nu.vercel.app/
 - GSAP (Greensock)
 - Vite
 - Tailwind CSS
-- 
+
 
 # React + Vite
 
